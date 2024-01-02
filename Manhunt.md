@@ -15,7 +15,7 @@ Das Manhunt startet nun....
 - /manhunt pause (Permission: manhunt.paused) - pausiert das Manhunt
 - /manhunt end - beendet das Manhunt
 
-##Ending Reason
+## Ending Reason
 
 - EndingReason CMD - End the Manhunt by the command
 - EndingReason DEATH - A Runner died
