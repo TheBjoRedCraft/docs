@@ -3,7 +3,7 @@
 ## Regeln
 
 ### Deutsch
-1. Das **zufällige und grunlose töten von Spielern ist verboten**. Gründ: [Siehe Kill-Gründe/Kill-Reasons] Es wird automatisch geahndet!
+1. Das **zufällige und grundlose töten von Spielern ist verboten**. Gründ: [Siehe Kill-Gründe/Kill-Reasons] Es wird automatisch geahndet!
 2. Das trollen von Spielern ist ebenso verboten.
 ### English
 1. Random and with no Reason killing is forbidden. Reasons: [See Kill-Gründe/Kill-Reasons]
